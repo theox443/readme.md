@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+## Instalasi
+\`\`\`bash
+# Clone repositori
+git clone ssh://git@your-server:port/gitigrone-theox443.git
+cd gitigrone-theox443
